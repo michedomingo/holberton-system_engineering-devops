@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mavFR --group-directories-first . ..
+ls -mpa . ..
