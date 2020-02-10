@@ -7,8 +7,7 @@
 ___
 <a name="redirections"></a>
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### Shell, I/O Redirection
 - [ ] What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 - [ ] How to redirect standard output to a file

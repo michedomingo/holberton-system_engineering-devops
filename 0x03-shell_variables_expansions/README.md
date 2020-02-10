@@ -7,8 +7,7 @@
 ___
 <a name="expansions"></a>
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### General
 - [ ] What happens when you type $ ls -l *.txt
 #### Shell Initialization Files

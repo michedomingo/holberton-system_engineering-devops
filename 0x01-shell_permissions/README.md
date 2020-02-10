@@ -7,8 +7,7 @@
 ___
 <a name="permissions"></a>
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### Permissions
 - [ ] What do the commands chmod, sudo, su, chown, chgrp do
 - [ ] Linux file permissions

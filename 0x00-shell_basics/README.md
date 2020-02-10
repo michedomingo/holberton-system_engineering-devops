@@ -7,8 +7,7 @@
 ___
 <a name="basics"></a>
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### What is the Shell
 - [ ] What is the shell
 - [ ] What is the difference between a terminal and a shell

@@ -10,8 +10,7 @@ ___
 <a name="basics"></a>
 # [0x00. Shell, basics](https://github.com/michedomingo/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### What is the Shell
 - [ ] What is the shell
 - [ ] What is the difference between a terminal and a shell
@@ -59,8 +58,7 @@ ____
 <a name="permissions"></a>
 # [0x01. Shell, permissions](https://github.com/michedomingo/holberton-system_engineering-devops/tree/master/0x01-shell_permissions)
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### Permissions
 - [ ] What do the commands chmod, sudo, su, chown, chgrp do
 - [ ] Linux file permissions
@@ -79,8 +77,7 @@ ____
 <a name="redirections"></a>
 # [0x02. Shell, I/O Redirections and filters](https://github.com/michedomingo/holberton-system_engineering-devops/tree/master/0x02-shell_redirections)
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### Shell, I/O Redirection
 - [ ] What do the commands head, tail, find, wc, sort, uniq, grep, tr do
 - [ ] How to redirect standard output to a file
@@ -101,8 +98,7 @@ ____
 <a name="expansions"></a>
 # [0x03. Shell, init files, variables and expansions](https://github.com/michedomingo/holberton-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
 
-## 🤓 Learning Objectives
-
+### 🤓 Learning Objectives
 #### General
 - [ ] What happens when you type $ ls -l *.txt
 #### Shell Initialization Files
