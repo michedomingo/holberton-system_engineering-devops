@@ -77,7 +77,7 @@ ____
 - [ ] How to print the effective userid
 ____
 <a name="redirections"></a>
-# [0x02. Shell, I/O Redirections and filters](https://github.com/michedomingo/holbertonschool-zero_day/tree/master/0x02-vi)
+# [0x02. Shell, I/O Redirections and filters](https://github.com/michedomingo/holberton-system_engineering-devops/tree/master/0x02-shell_redirections)
 
 ## 🤓 Learning Objectives
 
