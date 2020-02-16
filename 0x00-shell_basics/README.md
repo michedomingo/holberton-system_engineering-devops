@@ -1,4 +1,4 @@
-# 0x01. Shell, basics
+# 0x00. Shell, basics
 > Holberton School Foundations Curiculum: System Engineering & DevOps - Bash
 
 ### Contents
