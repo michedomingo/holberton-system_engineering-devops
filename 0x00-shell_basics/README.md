@@ -53,86 +53,66 @@ ___
 - [ ] What does LTS mean?
 ___
 <a name="tasks"></a>
-## Tasks
+### Tasks
 > All scripts must be executable and exactly two lines long.
 
-### 0. Where am I?
+#### File: [0-current_working_directory](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
 - Prints the absolute path name of the current working directory.
-- File: [0-current_working_directory](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/0-current_working_directory)
 
-### 1. What’s in there?
+#### File: [1-listit](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
 - Display the contents list of your current directory.
-- File: [1-listit](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/1-listit)
 
-### 2. There is no place like home
+#### File: [2-bring_me_home](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/2-bring_me_home)
 - Change the working directory to the user’s home directory.
-- File: [2-bring_me_home](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/2-bring_me_home)
 
-### 3. The long format 
+#### File: [3-listfiles](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/3-listfiles)
 - Display current directory contents in a long format.
-- File: [3-listfiles](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/3-listfiles)
 
-### 4. Hidden files
+#### File: [4-listmorefiles](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)
 - Display current directory contents, including hidden files.
-- File: [4-listmorefiles](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/4-listmorefiles)
 
-### 5. I love numbers
+#### File: [5-listfilesdigitonly](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
 - Display current directory contents.
-- File: [5-listfilesdigitonly](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/5-listfilesdigitonly)
 
-### 6. Welcome holberton
+#### File: [6-firstdirectory](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory)
 - Create a directory named holberton in the /tmp/ directory.
-- File: [6-firstdirectory](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/6-firstdirectory)
 
-### 7. Betty in Holberton
+#### File: [7-movethatfile](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/7-movethatfile)
 - Move the file betty from /tmp/ to /tmp/holberton.
-- File: [7-movethatfile](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/7-movethatfile)
 
-### 8. Bye bye Betty
+#### File: [8-firstdelete](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/8-firstdelete)
 - Delete the file betty.
-- File: [8-firstdelete](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/8-firstdelete)
 
-### 9. Bye bye Holberton
+#### File: [9-firstdirdeletion](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/9-firstdirdeletion)
 - Delete the directory holberton that is in the /tmp directory.
-- File: [9-firstdirdeletion](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/9-firstdirdeletion)
 
-### 10. Back to the future
+#### File: [10-back](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/10-back)
 - Change the working directory to the previous one.
-- File: [10-back](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/10-back)
 
-### 11. Lists
+#### File: [11-lists](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/11-lists)
 - List all files in current, parent and /boot directories.
-- File: [11-lists](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/11-lists)
 
-### 12. File type
+#### File: [11-lists](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/11-lists)
 - List all files in current, parent and /boot directories.
-- File: [11-lists](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/11-lists)
 
-### 13. We are symbols, and inhabit symbols
+#### File: [13-symbolic_link](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/13-symbolic_link)
 - Create a symbolic link to /bin/ls, named __ls__.
-- File: [13-symbolic_link](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/13-symbolic_link)
 
-### 14. Copy HTML files
+#### File: [14-copy_html](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/14-copy_html)
 - Copy all HTML files that did not exist in parent of working directory.
-- File: [14-copy_html](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/14-copy_html)
 
-### 15. Let’s move
+#### File: [15-lets_move](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/15-lets_move)
 - Move all files beginning with an uppercase letter to the directory /tmp/u.
-- File: [15-lets_move](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/15-lets_move)
 
-### 16. Clean Emacs
+#### File: [16-clean_emacs](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/16-clean_emacs)
 - Delete all files in the current working directory that end with the character ~.
-- File: [16-clean_emacs](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/16-clean_emacs)
 
-### 17. Tree
+#### File: [17-tree](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/17-tree)
 - Create the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
-- File: [17-tree](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/17-tree)
 
-### 18. Life is a series of commas, not periods
+#### File: [18-commas](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/18-commas)
 - List all the files and directories of the current directory, separated by commas (,).
-- File: [18-commas](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/18-commas)
 
-### 19. File type: Holberton
+#### File: [holberton.mgc](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/holberton.mgc)
 - Create a magic file holberton.mgc that can be used with the command file to detect Holberton data files. 
-- File: [holberton.mgc](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/holberton.mgc)
 ___
