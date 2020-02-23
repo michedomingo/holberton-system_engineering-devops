@@ -116,3 +116,6 @@ ___
 #### File: [holberton.mgc](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x00-shell_basics/holberton.mgc)
 - Create a magic file holberton.mgc that can be used with the command file to detect Holberton data files. 
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+

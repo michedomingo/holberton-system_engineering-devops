@@ -102,3 +102,5 @@ ___
 - Write a script that encodes and decodes text using the rot13 encryption. 
 - Assume ASCII.
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

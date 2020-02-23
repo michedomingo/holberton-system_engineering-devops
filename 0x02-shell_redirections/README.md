@@ -102,3 +102,5 @@ ___
 #### File: [22-users_and_homes](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x02-shell_redirections/22-users_and_homes)
 - Write a script that displays all users and their home directories, sorted by users.
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)

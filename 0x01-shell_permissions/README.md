@@ -84,3 +84,5 @@ ___
 #### File: [101-man_holberton](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x01-shell_permissions/101-man_holberton)
 - Create a man page that looks exactly like [this one](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/207/man_holberton.PNG) and passes all checks.
 ___
+## Author
+* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
