@@ -101,6 +101,9 @@ ___
 #### File: [100-rot13](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x03-shell_variables_expansions/100-rot13)
 - Write a script that encodes and decodes text using the rot13 encryption. 
 - Assume ASCII.
+
+#### File: [101-odd](https://github.com/michedomingo/holberton-system_engineering-devops/blob/master/0x03-shell_variables_expansions/101-odd)
+- Write a script that prints every other line from the input, starting with the first line.
 ___
 ## Author
 * **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
