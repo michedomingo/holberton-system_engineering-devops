@@ -1,7 +1,11 @@
 # 0x07. Networking basics #0
 
-## Resources:books:
-Read or watch:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+<details><summary>Resources 💡</summary>
+
 * [OSI model](https://intranet.hbtn.io/rltoken/ERGikvYsVP3sa9ZdlAAV4w)
 * [Different types of network](https://intranet.hbtn.io/rltoken/H2peG3mV1MDDEK9c9FpGjA)
 * [LAN network](https://intranet.hbtn.io/rltoken/GLVy5U4Ja4c2BnKYDPwT5Q)
@@ -16,16 +20,16 @@ Read or watch:
 * [TCP/UDP ports List](https://intranet.hbtn.io/rltoken/gfKJyK0ztzhyNO0SIvVibQ)
 * [What is ping /ICMP](https://intranet.hbtn.io/rltoken/OPrB4crHtTLwUynA5YjVNw)
 * [Positional parameters](https://intranet.hbtn.io/rltoken/yN_ZinFzBaLXuJhOhKiMfw)
+</details>
 
----
-## Learning Objectives:bulb:
-What you should learn from this project:
+#### Learning Objectives 🤓
 
 * What it is
 * How many layers it has
 * How it is organized
 
 ---
+## Tasks
 
 ### [0. OSI model](./0-OSI_model)
 * OSI (Open Systems Interconnection) is an abstract model to describe layered communication and computer network design. The idea is to segregate the different parts of what make communication possible.
@@ -53,4 +57,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
