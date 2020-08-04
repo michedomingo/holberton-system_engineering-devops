@@ -1,18 +1,23 @@
 # 0x06. Regular expression
 
-## Resources:books:
-Read or watch:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+<details><summary>Resources 💡</summary>
+
 * [Regular expressions - basics](https://intranet.hbtn.io/rltoken/SJ2eQ7V2iQlCgLc-L96zWg)
 * [Regular expressions - advanced](https://intranet.hbtn.io/rltoken/qyjWL-J1_qUaZGR690gH1Q)
 * [Rubular is your best friend](https://intranet.hbtn.io/rltoken/WCjn8NgohbQ5NGXEObWZvQ)
 * [Use a regular expression against a problem: now you have 2 problems](https://intranet.hbtn.io/rltoken/Zfvv_ydOCvJ_YaBB6eDqVw)
 * [Learn Regular Expressions with simple, interactive exercises](https://intranet.hbtn.io/rltoken/Y-OVGcJ5cskdXWIBowiE_A)
+</details>
+
+#### Learning Objectives 🤓
+* 
 
 ---
-## Learning Objectives:bulb:
-What you should learn from this project:
-
----
+## Tasks
 
 ### [0. Simply matching Holberton](./0-simply_match_holberton.rb)
 * 
@@ -56,4 +61,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
