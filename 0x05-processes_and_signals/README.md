@@ -1,14 +1,17 @@
 # 0x05. Processes and signals
 
-## Resources:books:
-Read or watch:
+<details><summary>Project Requirements ☑️</summary>
+...
+</details>
+
+<details><summary>Resources 💡</summary>
+
 * [Linux PID](https://intranet.hbtn.io/rltoken/FcpEdqz8hau7eEB0Pi8Ong)
 * [Linux process](https://intranet.hbtn.io/rltoken/hX_t2YK0erLPbdTq0-uKwQ)
 * [Linux signal](https://intranet.hbtn.io/rltoken/SojW4zvL8j1yaoa7_NM6rA)
+</details>
 
----
-## Learning Objectives:bulb:
-What you should learn from this project:
+#### Learning Objectives 🤓
 
 * What is a PID
 * What is a process
@@ -18,6 +21,7 @@ What you should learn from this project:
 * What are the 2 signals that cannot be ignored
 
 ---
+## Tasks
 
 ### [0. What is my PID](./0-what-is-my-pid)
 * Write a Bash script that displays its own PID.
@@ -73,4 +77,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
