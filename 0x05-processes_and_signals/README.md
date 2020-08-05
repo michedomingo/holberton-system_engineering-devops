@@ -69,18 +69,18 @@
 </details>
 
 ### [5. Kill me now](./5-kill_me_now)
-<details><summary>...</summary><br>
+<details><summary>We killed our 4-to_infinity_and_beyond process using ctrl+c in the previous task, there is actually another way to do this.</summary><br>
 
-* We killed our 4-to_infinity_and_beyond process using ctrl+c in the previous task, there is actually another way to do this.
+* 
 ```
 
 ```
 </details>
 
 ### [6. Kill me now made easy](./6-kill_me_now_made_easy)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that kills 4-to_infinity_and_beyond process.</summary><br>
 
-* Write a Bash script that kills 4-to_infinity_and_beyond process.
+* 
 ```
 
 ```
