@@ -42,9 +42,9 @@
 </details>
 
 ### [2. Show your Bash PID](./2-show_your_bash_pid)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that displays lines containing the bash word.</summary><br>
 
-* Using your previous exercise command, write a Bash script that displays lines containing the bash word, thus allowing you to easily get the PID of your Bash process.
+* Use your previous exercise command, thus allowing you to easily get the PID of your Bash process.
 ```
 
 ```
