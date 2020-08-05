@@ -33,9 +33,9 @@
 </details>
 
 ### [1. List your processes](./1-list_your_processes)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that displays a list of currently running processes.</summary><br>
 
-* Write a Bash script that displays a list of currently running processes.
+* 
 ```
 
 ```
