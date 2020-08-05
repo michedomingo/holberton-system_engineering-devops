@@ -46,10 +46,9 @@
 </details>
 
 ### [2. Client configuration file](./2-ssh_config)
-<details><summary>...</summary><br>
+<details><summary>Share your SSH client configuration in your answer file.</summary><br>
 
 * Your Ubuntu Vagrant machine has an SSH configuration file for the local SSH client, let’s configure it to our needs so that you can connect to a server without typing a password.
-Share your SSH client configuration in your answer file.
 ```
 
 ```
