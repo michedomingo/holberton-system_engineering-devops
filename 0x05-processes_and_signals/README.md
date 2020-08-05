@@ -51,9 +51,9 @@
 </details>
 
 ### [3. Show your Bash PID made easy](./3-show_your_bash_pid_made_easy)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.</summary><br>
 
-* Write a Bash script that displays the PID, along with the process name, of processes whose name contain the word bash.
+* 
 ```
 
 ```
