@@ -24,9 +24,9 @@
 ## Tasks
 
 ### [0. What is my PID](./0-what-is-my-pid)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that displays its own PID.</summary><br>
 
-* Write a Bash script that displays its own PID.
+* 
 ```
 
 ```
