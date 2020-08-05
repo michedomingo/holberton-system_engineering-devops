@@ -96,18 +96,18 @@
 </details>
 
 ### [8. Beheaded process](./8-beheaded_process)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that kills the process 7-highlander.</summary><br>
 
-* Write a Bash script that kills the process 7-highlander.
+* 
 ```
 
 ```
 </details>
 
 ### [9. Process and PID file](./100-process_and_pid_file)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that: </summary><br>
 
-* Write a Bash script that: 
+* 
 ```
 
 ```
