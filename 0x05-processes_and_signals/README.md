@@ -87,9 +87,9 @@
 </details>
 
 ### [7. Highlander](./7-highlander)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that displays: </summary><br>
 
-* Write a Bash script that displays: 
+* 
 ```
 
 ```
