@@ -60,9 +60,9 @@
 </details>
 
 ### [4. To infinity and beyond](./4-to_infinity_and_beyond)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that displays To infinity and beyond indefinitely. </summary><br>
 
-* Write a Bash script that displays To infinity and beyond indefinitely. 
+* 
 ```
 
 ```
