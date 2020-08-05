@@ -20,16 +20,31 @@
 ## Tasks
 
 ### [0. Create a file](./0-create_a_file.pp)
-* Using Puppet, create a file in /tmp.
+<details><summary>Using Puppet, create a file in /tmp.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [1. Install a package](./1-install_a_package.pp)
-* Using Puppet, install puppet-lint.
+<details><summary>Using Puppet, install puppet-lint.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [2. Execute a command](./2-execute_a_command.pp)
-* Using Puppet, create a manifest that kills a process named killmenow.
+<details><summary>Using Puppet, create a manifest that kills a process named killmenow.</summary><br>
 
+* 
+```
+
+```
+</details>
 ---
 
 ## Author
