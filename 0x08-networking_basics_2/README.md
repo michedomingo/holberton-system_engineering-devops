@@ -23,25 +23,50 @@
 ---
 
 ### [0. Localhost](./0-localhost)
-* What is localhost?
+<details><summary>What is localhost?</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [1. All IPs](./1-wildcard)
-* What is 0.0.0.0?
+<details><summary>What is 0.0.0.0?</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [2. Change your home IP](./2-change_your_home_IP)
-* Write a Bash script that configures an Ubuntu server with the below requirements.
+<details><summary>Write a Bash script that configures an Ubuntu server with the below requirements.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [3. Show attached IPs](./3-show_attached_IPs)
-* Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+<details><summary>Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.</summary><br>
 
+* 
+```
+
+```
+</details>
 
 ### [4. Port listening on localhost](./4-port_listening_on_localhost)
-* Write a Bash script that listens on port 98 on localhost.
+<details><summary>Write a Bash script that listens on port 98 on localhost.</summary><br>
 
+* 
+```
+
+```
+</details>
 ---
 
 ## Author
-* **Michelle Domingo** - [michedomingo](https://github.com/michedomingo)
+[Michelle Domingo](https://github.com/michedomingo)
