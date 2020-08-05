@@ -37,9 +37,9 @@
 </details>
 
 ### [1. Create an SSH key pair](./1-create_ssh_key_pair)
-<details><summary>...</summary><br>
+<details><summary>Write a Bash script that creates an RSA key pair.</summary><br>
 
-* Write a Bash script that creates an RSA key pair.
+* 
 ```
 
 ```
