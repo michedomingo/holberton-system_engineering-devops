@@ -1,8 +1,7 @@
-sudo apt-get -y update
-sudo apt-get -y install ufw
-sudo ufw default allow outgoing
-sudo ufw default deny incoming
-sudo ufw allow 22/tcp
-sudo ufw allow 443/tcp
-sudo ufw allow 80/tcp
-sudo ufw enable
+#!/usr/bin/env bash
+# configures the container to run Nginx as Nginx
+pkill apache2
+chown nginx /etc/nginx/nginx.conf
+chmod 777 /etc/nginx/nginx.conf
+sed -i 's/80/8080/g' /etc/nginx/sites-available/default
+sudo -u nginx service nginx restart
