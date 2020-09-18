@@ -8,9 +8,9 @@ import requests
 def recurse(subreddit, hot_list=[], next_topic=''):
     try:
         posts = requests.get('https://www.reddit.com/r/{}/hot.json?after={}'.
-                           format(subreddit, next_topic),
-                           allow_redirects=False,
-                           headers={'User-Agent': 'custom'})
+                             format(subreddit, next_topic),
+                             allow_redirects=False,
+                             headers={'User-Agent': 'custom'})
         if next_topic is None:
             return hot_list
         for topic in posts.json().get('data').get('children'):
